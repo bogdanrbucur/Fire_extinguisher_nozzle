@@ -1,5 +1,4 @@
 # Fire extinguisher nozzle
-3D model of a fire extinguisher plastic nozzle used to direct the extinguishing medium
 
 Fire extinguisher nozzle I designed in Autodesk 123D Design for a IdeaWerk REALvision 3D printer on board a vessel. Multiple fire extinguishers on board the vessel were missing the fire nozzle used to direct the extinguishing medium and as the vessel was part of a pilot program to implement 3D printing on board ships within the fleet, I took the opportunity to design and 3D print the nozzles, thus saving spare parts costs. The vessel still uses these nozzles to this day.
 
